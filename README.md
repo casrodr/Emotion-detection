@@ -14,7 +14,8 @@ This program is used to determine the emotion from an image and categorizes it a
 
 # This program works in 3 ways: (Webcam, video upload, screen capture)
 ![VideoCaptureMl](https://github.com/casrodr/Emotion-detection/assets/102768038/7bbb7a98-b649-4a08-bf81-b8045bacfb76)
-![ScreenCaptureML](https://github.com/casrodr/Emotion-detection/assets/102768038/5272a31d-1e50-464a-b7a2-aa27803d0263)
+![ScreenCaptureML](https://github.com/casrodr/Emotion-detection/assets/102768038/c4660bcb-736e-4508-b234-3da3d7c1e0aa)
+
 
 
 ### Packages need to be installed
